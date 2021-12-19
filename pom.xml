@@ -20,8 +20,8 @@
             <version>2.9.5</version>
         </dependency>
     </dependencies>
-
-    <build>
+         
+<build>
     <plugins>
         <plugin>
             <groupId>org.cyclonedx</groupId>
